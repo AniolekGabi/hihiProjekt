@@ -1,0 +1,20 @@
+1;zab
+2;tkanka tluszczowa
+3;bialko
+4;pieprznik jadalny
+5;luska
+6;bateria AAA
+7;worek atramentowy
+8;siarka
+9;rog
+10;jajo
+11;futro
+12;snieg
+13;skrzydlo
+14;gruczol przedni
+15;slina
+16;mech
+17;sluz
+18;szpon
+19;napromieniowane runo
+20;ziola
