@@ -1,0 +1,10 @@
+1;klej;17;15;14
+2;energol;6;20;3
+3;skrzydelka;2;13;10
+4;olej;5;2;10
+5;grzybowa;4;20;16
+6;ogrzewacz;8;18;11
+7;ozimniacz;12;9;1
+8;plamiacz;7;14;17
+9;mutagen;19;5;10
+10;mniam;20;2;10

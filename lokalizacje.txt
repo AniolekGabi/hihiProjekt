@@ -1,0 +1,6 @@
+1;las
+2;bagno
+3;gory
+4;jaskinia
+5;dolina
+6;miasto
